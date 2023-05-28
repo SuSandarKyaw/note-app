@@ -1,0 +1,17 @@
+
+.photo{
+    width:200px;
+    height: 260px;
+    background-color: lightcoral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 30px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+
